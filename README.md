@@ -1,6 +1,6 @@
 # frettabladid-scraper
 
-`frettabladid-scraper` is a simple python-script to download editions of Fréttablaðið in bulk from [Fréttablaðið.is](www.frettabladid.is).
+`frettabladid-scraper` is a Python script to download editions of Fréttablaðið in bulk from [Fréttablaðið.is](www.frettabladid.is).
 
 ## Features
 
